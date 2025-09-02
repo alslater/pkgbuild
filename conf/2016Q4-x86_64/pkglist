@@ -33,20 +33,19 @@ editors/nano
 lang/gcc49
 lang/gcc49-libs
 lang/nawk
-lang/nodejs
-lang/npm
 lang/pear
 lang/python39
 lang/rust
 mail/dovecot2
+mail/opendkim
 mail/p5-Mail-POP3Client
 mail/p5-MIME-tools
 mail/postfix
 meta-pkgs/boost
 meta-pkgs/php74-extensions
 meta-pkgs/php81-extensions
+meta-pkgs/php84-extensions
 meta-pkgs/pkg_developer
-misc/byobu
 misc/pinfo
 misc/tmux
 net/haproxy
@@ -78,6 +77,7 @@ scl/stu
 security/ap-modsecurity2
 security/ap-modsecurity29
 security/fail2ban
+security/gnupg
 security/gnupg2
 security/mozilla-rootcerts
 security/py-passlib
@@ -97,6 +97,7 @@ sysutils/rsyslog-elasticsearch
 sysutils/rsyslog-gnutls
 sysutils/rsyslog-rabbitmq
 sysutils/top
+sysutils/zabbix50-agent
 textproc/catdoc
 textproc/glimpse
 textproc/jsoncpp
@@ -106,6 +107,7 @@ textproc/nbsed
 textproc/py-jinja2
 textproc/py-lxml
 textproc/py-pygments
+textproc/the_silver_searcher
 www/apache24
 www/cronolog
 www/curl
