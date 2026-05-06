@@ -62,7 +62,6 @@ pkgtools/pkgin
 scl/py-auditmonitor
 scl/ossec-agent
 scl/stu
-security/ap-modsecurity2
 security/ap-modsecurity29
 security/fail2ban
 security/gnupg
